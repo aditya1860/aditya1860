@@ -9,7 +9,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-joshi-a59331228/)
-[![Resume](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.pdffiller.com/jsfiller-desk10/?acc-header-redesign=false&flat_pdf_quality=high&isSkipEditorLoadFrequency=true&jsf-context-menu-to-right-panel=true&jsf-disable-autosave=true&jsf-disable-browser-translation=true&jsf-editor-pdfjs-five=true&jsf-fake-edit-embedded=true&jsf-fake-edit-stream-editing=true&jsf-redesign-full=true&jsf-simplified-modes-iteration-1=true&jsf-socket-io=true&projectId=2069070680&requestHash=cfdb10105d9979c81fa8b23bbb38a3acd10d695d8f119cfeca822632603abcd2&richTextFormatting=true&routeId=1bf33477d14a3fb2b30c08a45a4e0d45#082d73ce6ae24e05af870ab87aa46353)
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.pdffiller.com/jsfiller-desk10/?acc-header-redesign=false&flat_pdf_quality=high&isSkipEditorLoadFrequency=true&jsf-context-menu-to-right-panel=true&jsf-disable-autosave=true&jsf-disable-browser-translation=true&jsf-editor-pdfjs-five=true&jsf-fake-edit-embedded=true&jsf-fake-edit-stream-editing=true&jsf-redesign-full=true&jsf-simplified-modes-iteration-1=true&jsf-socket-io=true&projectId=2069070680&requestHash=cfdb10105d9979c81fa8b23bbb38a3acd10d695d8f119cfeca822632603abcd2&richTextFormatting=true&routeId=1bf33477d14a3fb2b30c08a45a4e0d45#082d73ce6ae24e05af870ab87aa46353)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshiaditya250@gmail.com)
 
 </div>
@@ -92,18 +92,12 @@ const aditya = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya1860&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 ---
