@@ -139,9 +139,9 @@ I'm always open to discussing **new opportunities**, **collaborations**, or just
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-joshi-a59331228/)
+[![Resume](https://img.shields.io/badge/Resume-View_My_Work-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.pdffiller.com/jsfiller-desk10/?acc-header-redesign=false&flat_pdf_quality=high&isSkipEditorLoadFrequency=true&jsf-context-menu-to-right-panel=true&jsf-disable-autosave=true&jsf-disable-browser-translation=true&jsf-editor-pdfjs-five=true&jsf-fake-edit-embedded=true&jsf-fake-edit-stream-editing=true&jsf-redesign-full=true&jsf-simplified-modes-iteration-1=true&jsf-socket-io=true&projectId=2069070680&requestHash=cfdb10105d9979c81fa8b23bbb38a3acd10d695d8f119cfeca822632603abcd2&richTextFormatting=true&routeId=1bf33477d14a3fb2b30c08a45a4e0d45#f102e5cd26e64f7a9d09e97c79acd36c)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshiaditya250@gmail.com)
 
 </div>
 
