@@ -157,6 +157,3 @@ I'm always open to discussing **new opportunities**, **collaborations**, or just
   
 ### ⚡ "Code. Build. Ship. Repeat." ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square)
-
-</div>
