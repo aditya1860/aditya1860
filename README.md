@@ -20,7 +20,7 @@
 
 ```javascript
 const aditya = {
-    location: "Jalandhar, Punjab 📍",
+    location: "Ludhiana, Punjab 📍",
     education: "B.Tech CSE @ VIT Bhopal 🎓",
     currentFocus: ["Full Stack Development", "Power BI Analytics", "AI Integration"],
     workingOn: "Automotive-tech solutions for Tier 2/3 India 🚗",
