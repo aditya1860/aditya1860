@@ -9,7 +9,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-joshi-a59331228/)
-[![Resume](https://www.pdffiller.com/s/L74_ezpm2)
+[![Resume](https://www.pdffiller.com/s/L74_ezpm2 io=true&projectId=2069070680&requestHash=cfdb10105d9979c81fa8b23bbb38a3acd10d695d8f119cfeca822632603abcd2&richTextFormatting=true&routeId=1bf33477d14a3fb2b30c08a45a4e0d45#082d73ce6ae24e05af870ab87aa46353)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshiaditya250@gmail.com)
 
 </div>
